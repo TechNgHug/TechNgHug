@@ -1,4 +1,4 @@
-# TechNgHung
+# TechNgHug
 # 💫 About Me:
 ### About Me :<br><br>🔭 **I’m currently working on:** Developing **VinaCAD**—creating add-ins and tools to optimize workflows for AutoCAD and Revit.<br>👯 **I’m looking to collaborate on:** Design automation, BIM integration, and developing tech tools with stakeholders in the civil engineering sector.<br>🤝 **I’m looking for help with:** Strategic development directions for technology products in civil engineering and expanding a multi-platform ecosystem.<br>🌱 **I’m currently learning:** Multi-disciplinary software development bridging civil engineering and application programming (AutoCAD/Revit API).<br>💬 **Ask me about:** VinaCAD, AutoCAD/Revit APIs, engineering workflow optimization, and anime.<br>⚡ **Fun fact:** An "Alpha Male" at work, but a true Wibu off the clock.
 
